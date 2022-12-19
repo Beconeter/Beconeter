@@ -17,3 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beconeter&show_icons=true&locale=en" alt="beconeter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beconeter&" alt="beconeter" /></p>
+
+
+# Something I Found in my homework on December 19th, 2022. 
+<img src="genetics.png" />
